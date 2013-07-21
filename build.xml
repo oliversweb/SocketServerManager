@@ -67,7 +67,7 @@
 	        	<section name="Jar-Info">        		
 	        		<attribute name="Specification-Title" value="Socket Server for the SocketClient"/>	        		
 					<attribute name="Specification-Version" value="${build.number}.${version.number}"/>
-				  	<attribute name="Specification-Vendor" value="Just-Eat Holding Ltd"/>
+				  	<attribute name="Specification-Vendor" value="Oliversweb Ltd"/>
 				  	<attribute name="Implementation-Title" value="${app.name}"/>		  
 	        		<attribute name="Implementation-Version" value="${build.number}.${version.number}.${DSTAMP}${TSTAMP}"/>        		
 				  	<attribute name="Implementation-Vendor" value="Oliversweb Ltd"/>
